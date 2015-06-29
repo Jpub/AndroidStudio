@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:18:1
+	package
+		ADDED from AndroidManifest.xml:19:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:18:11
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:21:5
+	android:name
+		ADDED from AndroidManifest.xml:21:22
+uses-sdk
+ADDED from AndroidManifest.xml:23:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:23:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:24:5
+activity#com.android.gesture.builder.GestureBuilderActivity
+ADDED from AndroidManifest.xml:26:9
+	android:label
+		ADDED from AndroidManifest.xml:28:13
+	android:icon
+		ADDED from AndroidManifest.xml:29:13
+	android:name
+		ADDED from AndroidManifest.xml:27:13
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:33:17
+	android:name
+		ADDED from AndroidManifest.xml:33:27
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:34:17
+	android:name
+		ADDED from AndroidManifest.xml:34:27
+activity#com.android.gesture.builder.CreateGestureActivity
+ADDED from AndroidManifest.xml:39:9
+	android:label
+		ADDED from AndroidManifest.xml:41:13
+	android:name
+		ADDED from AndroidManifest.xml:40:13

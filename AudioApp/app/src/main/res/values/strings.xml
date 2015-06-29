@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_string">Play</string>
+    <string name="record_string">Record</string>
+    <string name="stop_string">Stop</string>
+</resources>

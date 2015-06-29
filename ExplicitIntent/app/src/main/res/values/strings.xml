@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ask_text">Ask Question</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="answer_text">Answer Question</string>
+</resources>

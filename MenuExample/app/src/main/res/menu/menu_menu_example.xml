@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MenuExampleActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_red"
+            android:orderInCategory="1"
+            android:showAsAction="never"
+            android:title="@string/red_string"/>
+
+        <item
+            android:id="@+id/menu_green"
+            android:orderInCategory="2"
+            android:showAsAction="never"
+            android:title="@string/green_string"/>
+
+        <item
+            android:id="@+id/menu_yellow"
+            android:orderInCategory="3"
+            android:showAsAction="never"
+            android:title="@string/yellow_string"/>
+
+        <item
+            android:id="@+id/menu_blue"
+            android:orderInCategory="4"
+            android:showAsAction="never"
+            android:title="@string/blue_string"/>
+    </group>
+
+</menu>
