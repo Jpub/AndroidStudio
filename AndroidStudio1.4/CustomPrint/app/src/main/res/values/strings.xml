@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomPrint</string>
+    <string name="print_string">Print Document</string>
+</resources>

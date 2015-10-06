@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebPrint</string>
+    <string name="print_string">Print</string>
+</resources>

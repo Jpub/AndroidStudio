@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventExample</string>
+    <string name="status_string">Status</string>
+    <string name="button_string">Press Me</string>
+</resources>

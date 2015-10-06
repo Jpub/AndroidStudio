@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="welcomestring">Welcome to Android Studio</string>
+</resources>
