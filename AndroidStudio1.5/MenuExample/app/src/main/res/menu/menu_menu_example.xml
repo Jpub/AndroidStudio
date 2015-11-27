@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ebookfrenzy.menuexample.MenuExampleActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_red"
+            android:orderInCategory="1"
+            app:showAsAction="never"
+            android:title="@string/red_string"/>
+
+        <item
+            android:id="@+id/menu_green"
+            android:orderInCategory="2"
+            app:showAsAction="never"
+            android:title="@string/green_string"/>
+
+        <item
+            android:id="@+id/menu_yellow"
+            android:orderInCategory="3"
+            app:showAsAction="never"
+            android:title="@string/yellow_string"/>
+
+        <item
+            android:id="@+id/menu_blue"
+            android:orderInCategory="4"
+            app:showAsAction="never"
+            android:title="@string/blue_string"/>
+    </group>
+</menu>

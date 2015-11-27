@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteBound</string>
+    <string name="button_string">Send Message</string>
+</resources>
